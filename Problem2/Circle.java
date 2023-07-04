@@ -1,6 +1,7 @@
 package Problem2;
 
 class Circle extends Shape {
+    // Private instance variable defining radius
     private double radius;
 
     // default constructor
